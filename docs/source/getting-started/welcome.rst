@@ -143,7 +143,7 @@ The package's output can be consumed in various formats:
 
 
 
-🔢 Suported Data Types
+🔢 Supported Data Types
 =========================
 
 Deepchecks currently supports Tabular Data (:mod:`deepchecks.tabular`) and is in beta release for Computer Vision (:mod:`deepchecks.vision`).
